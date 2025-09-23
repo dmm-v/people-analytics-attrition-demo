@@ -33,8 +33,12 @@ Les données utilisées proviennent de l’**Office of Personnel Management (OPM
 
 ## 👀 Aperçu visuel
 *(Captures d’écran du dashboard et des graphiques – données réelles anonymisées de l’OPM, USA)*  
-![Aperçu du dashboard](docs/dashboard-preview.png)  
+
+![Aperçu du dashboard](docs/dashboard-preview.png) 
+
 ![Graphiques d’analyse](docs/graphs-preview.png)
+
+![Graphique Machine Learning](docs/ml-preview.png)
 
 ## Structure du projet
 - `data/` : données réelles anonymisées utilisées pour l’analyse (non diffusées intégralement dans ce dépôt).
