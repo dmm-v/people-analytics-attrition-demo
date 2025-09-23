@@ -57,8 +57,8 @@ Cette table est directement utilisée dans **Power BI** et pour les modèles de 
 
 Ce dossier contient un **échantillon anonymisé** issu de la **table enrichie** `bruts.hr_data.Hr_Analytics2` :
 
-- [`hr_analytics2_sample.csv`](hr_analytics2_sample.csv) — 500 premières lignes de la table enrichie, avec toutes les colonnes finales utilisées dans Power BI et ML.
-- [`data_dictionary.xlsx`](data_dictionary.xlsx) — dictionnaire des variables (noms, types, description, origine).
+- [`hr_analytics2_sample.csv`](data/data/hr_analytics2_sample.csv) — 500 premières lignes de la table enrichie, avec toutes les colonnes finales utilisées dans Power BI et ML.
+- [`data_dictionary.xlsx`](data/data/data_dictionary.xlsx) — dictionnaire des variables (noms, types, description, origine).
 
 
 **Origine de l’échantillon** :  
