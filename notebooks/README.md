@@ -15,7 +15,7 @@ Chaque notebook combine code, explications et résultats intermédiaires pour as
    - Harmonisation des catégories d’âge  
    - Export du dataset complet `DTagy_Clean.csv` puis du dataset final `DTagy_Clean_Final.csv`
 
-2. **[03_sample_data.ipynb](03_sample_data.ipynb)**  
+2. **sample_data**  
    - Création d’un échantillon de **500 premières lignes** de la table enrichie  
    - Fichier disponible ici : [`hr_analytics2_sample.csv`](../data/data/hr_analytics2_sample.csv)  
    - Contient **toutes les colonnes finales** utilisées dans Power BI et pour les modèles de Machine Learning  
