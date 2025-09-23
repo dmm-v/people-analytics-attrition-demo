@@ -1,0 +1,502 @@
+﻿DATE_SEPARATION,AGE_GROUP,AGE_VALUE,EDUCATION,EDUCATION_LEVEL,TEMPS_DE_SERVICE,POSTE_OCCUPATION_CTG,POSTE_OCCUPATION,OCCUPATION_CATEGORY,SALARY_LEVEL_CTG,SALARY_LEVEL,AVERAGE_SALARY,LENGTH_OF_SERVICE,WORK_SCHEDULE,WORK_SCHEDULE_CTG,SEPARATION_CATEGORY
+08-01-22,25.0-29,29,13,BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,50643.0,0.2,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-22,35.0-39,39,17,MASTERS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,50643.0,0.2,Full-time,F-Full-time Nonseasonal,Involontaire
+08-01-22,25.0-29,29,15,POST-BACHELORS,1,White Collar,0999-LEGAL OCCUPATIONS STUDENT TRAINEE,Other White Collar,"60,000 - 69,999",69999,61947.0,0.2,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-22,25.0-29,29,13,BACHELORS,1,White Collar,0999-LEGAL OCCUPATIONS STUDENT TRAINEE,Other White Collar,"60,000 - 69,999",69999,61947.0,0.4,Not Full-time,P-Part-time Nonseasonal,Volontaire
+08-01-22,20.0-24,24,13,BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,50643.0,0.2,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-22,30.0-34,34,13,BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,50643.0,0.2,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-22,25.0-29,29,13,BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,50643.0,0.2,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-23,45.0-49,49,13,BACHELORS,2,White Collar,0028-ENVIRONMENTAL PROTECTION SPECIALIST,Administrative,"150,000 - 159,999",159999,150646.0,1.1,Full-time,F-Full-time Nonseasonal,Involontaire
+10-01-22,25.0-29,29,13,BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,50643.0,0.2,Full-time,F-Full-time Nonseasonal,Involontaire
+02-01-23,30.0-34,34,17,MASTERS,1,White Collar,1082-WRITING AND EDITING,Administrative,"110,000 - 119,999",119999,112015.0,0.6,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-22,30.0-34,34,17,MASTERS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"60,000 - 69,999",69999,61947.0,0.1,Full-time,F-Full-time Nonseasonal,Volontaire
+10-01-22,20.0-24,24,4,,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"30,000 - 39,999",39999,36542.0,0.2,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-22,20.0-24,24,4,,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"30,000 - 39,999",39999,36542.0,0.3,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-22,25.0-29,29,17,MASTERS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,50643.0,0.2,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-23,40.0-44,44,4,,2,White Collar,1101-GENERAL BUSINESS AND INDUSTRY,Administrative,"110,000 - 119,999",119999,114665.0,1.1,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-22,25.0-29,29,17,MASTERS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,50643.0,0.3,Full-time,F-Full-time Nonseasonal,Involontaire
+01-01-23,40.0-44,44,4,,1,White Collar,1102-CONTRACTING,Professional,"110,000 - 119,999",119999,114665.0,0.3,Full-time,F-Full-time Nonseasonal,Autre
+12-01-22,20.0-24,24,13,BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,50643.0,0.3,Full-time,F-Full-time Nonseasonal,Involontaire
+12-01-22,25.0-29,29,17,MASTERS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,50643.0,0.2,Full-time,F-Full-time Nonseasonal,Involontaire
+06-01-23,30.0-34,34,13,BACHELORS,1,White Collar,0132-INTELLIGENCE,Administrative,"110,000 - 119,999",119999,112015.0,0.8,Full-time,F-Full-time Nonseasonal,Autre
+06-01-23,30.0-34,34,22,POST-DOCTORATE,1,White Collar,0028-ENVIRONMENTAL PROTECTION SPECIALIST,Administrative,"100,000 - 109,999",109999,102229.0,0.7,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-23,35.0-39,39,17,MASTERS,1,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"90,000 - 99,999",99999,94199.0,0.9,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-22,20.0-24,24,17,MASTERS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"40,000 - 49,999",49999,44740.0,0.2,Full-time,F-Full-time Nonseasonal,Involontaire
+12-01-22,25.0-29,29,17,MASTERS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"40,000 - 49,999",49999,47216.0,0.2,Full-time,F-Full-time Nonseasonal,Involontaire
+12-01-22,20.0-24,24,13,BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,50389.0,0.2,Full-time,F-Full-time Nonseasonal,Involontaire
+12-01-22,30.0-34,34,14,POST-BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,51444.0,0.2,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-22,25.0-29,29,17,MASTERS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,54959.0,0.2,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-23,20.0-24,24,4,,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"30,000 - 39,999",39999,38540.0,0.2,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-23,25.0-29,29,13,BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,53105.0,0.3,Not Full-time,P-Part-time Nonseasonal,Involontaire
+04-01-23,25.0-29,29,14,POST-BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,53105.0,0.2,Full-time,F-Full-time Nonseasonal,Involontaire
+05-01-23,25.0-29,29,13,BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,53105.0,0.3,Full-time,F-Full-time Nonseasonal,Involontaire
+05-01-23,20.0-24,24,13,BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,53105.0,0.3,Not Full-time,P-Part-time Nonseasonal,Involontaire
+04-01-23,30.0-34,34,17,MASTERS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,53105.0,0.3,Full-time,F-Full-time Nonseasonal,Involontaire
+04-01-23,20.0-24,24,9,,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"30,000 - 39,999",39999,38317.0,0.2,Not Full-time,P-Part-time Nonseasonal,Involontaire
+05-01-23,20.0-24,24,13,BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"40,000 - 49,999",49999,42870.0,0.3,Not Full-time,P-Part-time Nonseasonal,Involontaire
+05-01-23,30.0-34,34,13,BACHELORS,1,White Collar,0999-LEGAL OCCUPATIONS STUDENT TRAINEE,Other White Collar,"60,000 - 69,999",69999,64957.0,0.3,Not Full-time,P-Part-time Nonseasonal,Involontaire
+04-01-23,25.0-29,29,17,MASTERS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,54576.0,0.2,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-23,25.0-29,29,17,MASTERS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,53105.0,0.2,Not Full-time,P-Part-time Nonseasonal,Involontaire
+06-01-23,20.0-24,24,9,,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,53898.0,0.3,Not Full-time,P-Part-time Nonseasonal,Involontaire
+05-01-23,25.0-29,29,17,MASTERS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,53105.0,0.2,Not Full-time,P-Part-time Nonseasonal,Volontaire
+05-01-23,20.0-24,24,17,MASTERS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,53105.0,0.2,Not Full-time,P-Part-time Nonseasonal,Involontaire
+05-01-23,25.0-29,29,17,MASTERS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,52527.0,0.2,Not Full-time,P-Part-time Nonseasonal,Volontaire
+09-01-23,35.0-39,39,13,BACHELORS,1,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"80,000 - 89,999",89999,84441.0,0.4,Full-time,F-Full-time Nonseasonal,Autre
+09-01-23,25.0-29,29,17,MASTERS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"40,000 - 49,999",49999,44057.0,0.3,Full-time,F-Full-time Nonseasonal,Involontaire
+08-01-23,20.0-24,24,13,BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"30,000 - 39,999",39999,39379.0,0.2,Full-time,F-Full-time Nonseasonal,Involontaire
+08-01-23,20.0-24,24,4,,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"30,000 - 39,999",39999,38317.0,0.2,Not Full-time,P-Part-time Nonseasonal,Involontaire
+08-01-23,25.0-29,29,13,BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"50,000 - 59,999",59999,53105.0,0.2,Full-time,F-Full-time Nonseasonal,Involontaire
+08-01-23,20.0-24,24,9,,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"30,000 - 39,999",39999,37696.0,0.2,Full-time,F-Full-time Nonseasonal,Involontaire
+09-01-23,20.0-24,24,13,BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"40,000 - 49,999",49999,42870.0,0.3,Full-time,F-Full-time Nonseasonal,Involontaire
+09-01-23,20.0-24,24,14,POST-BACHELORS,1,White Collar,0999-LEGAL OCCUPATIONS STUDENT TRAINEE,Other White Collar,"60,000 - 69,999",69999,64957.0,0.3,Full-time,F-Full-time Nonseasonal,Involontaire
+08-01-23,20.0-24,24,9,,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"30,000 - 39,999",39999,38317.0,0.2,Full-time,F-Full-time Nonseasonal,Involontaire
+08-01-23,20.0-24,24,9,,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"30,000 - 39,999",39999,38317.0,0.2,Not Full-time,P-Part-time Nonseasonal,Involontaire
+08-01-23,20.0-24,24,9,,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"40,000 - 49,999",49999,42870.0,0.2,Full-time,F-Full-time Nonseasonal,Involontaire
+08-01-23,25.0-29,29,13,BACHELORS,1,White Collar,0999-LEGAL OCCUPATIONS STUDENT TRAINEE,Other White Collar,"40,000 - 49,999",49999,48648.0,0.2,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-23,20.0-24,24,13,BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"30,000 - 39,999",39999,38317.0,0.2,Full-time,F-Full-time Nonseasonal,Involontaire
+06-01-23,20.0-24,24,9,,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"30,000 - 39,999",39999,38317.0,0.0,Not Full-time,P-Part-time Nonseasonal,Volontaire
+08-01-23,20.0-24,24,11,BETWEEN HS & BACHELORS,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"30,000 - 39,999",39999,38317.0,0.2,Full-time,F-Full-time Nonseasonal,Involontaire
+08-01-23,<20,20,7,,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"30,000 - 39,999",39999,33693.0,0.2,Not Full-time,P-Part-time Nonseasonal,Involontaire
+08-01-23,<20,20,4,,1,White Collar,0399-ADMINISTRATION AND OFFICE SUPPORT STUDENT TRAINEE,Other White Collar,"30,000 - 39,999",39999,38317.0,0.1,Full-time,F-Full-time Nonseasonal,Involontaire
+03-01-22,45.0-49,49,13,BACHELORS,24,White Collar,0501-FINANCIAL ADMINISTRATION AND PROGRAM,Administrative,"160,000 - 169,999",169999,168282.0,22.3,Full-time,F-Full-time Nonseasonal,Autre
+05-01-23,45.0-49,49,17,MASTERS,9,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"180,000 - 189,999",189999,183500.0,8.9,Full-time,F-Full-time Nonseasonal,Involontaire
+12-01-19,55.0-59,59,13,BACHELORS,24,White Collar,0080-SECURITY ADMINISTRATION,Administrative,"110,000 - 119,999",119999,115699.0,24.3,Full-time,F-Full-time Nonseasonal,Involontaire
+04-01-23,35.0-39,39,17,MASTERS,19,White Collar,1102-CONTRACTING,Professional,"150,000 - 159,999",159999,154428.0,16.1,Full-time,F-Full-time Nonseasonal,Autre
+08-01-22,40.0-44,44,15,POST-BACHELORS,14,White Collar,0905-GENERAL ATTORNEY,Professional,"170,000 - 179,999",179999,176300.0,14.7,Full-time,F-Full-time Nonseasonal,Autre
+01-01-22,35.0-39,39,13,BACHELORS,14,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"150,000 - 159,999",159999,158383.0,12.4,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-21,40.0-44,44,17,MASTERS,19,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"170,000 - 179,999",179999,172500.0,19.9,Full-time,F-Full-time Nonseasonal,Autre
+09-01-22,>=65,65,17,MASTERS,14,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"170,000 - 179,999",179999,176300.0,10.2,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-22,30.0-34,34,13,BACHELORS,9,White Collar,1810-GENERAL INVESTIGATION,Administrative,"90,000 - 99,999",99999,92829.0,6.3,Full-time,F-Full-time Nonseasonal,Autre
+12-01-22,30.0-34,34,17,MASTERS,9,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"110,000 - 119,999",119999,110384.0,6.2,Full-time,F-Full-time Nonseasonal,Autre
+09-01-21,30.0-34,34,17,MASTERS,9,White Collar,1109-GRANTS MANAGEMENT,Administrative,"70,000 - 79,999",79999,74158.0,5.4,Full-time,F-Full-time Nonseasonal,Autre
+05-01-23,50.0-54,54,13,BACHELORS,14,White Collar,0501-FINANCIAL ADMINISTRATION AND PROGRAM,Administrative,"100,000 - 109,999",109999,100479.0,14.3,Full-time,F-Full-time Nonseasonal,Autre
+12-01-19,60.0-64,64,17,MASTERS,24,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"160,000 - 169,999",169999,166500.0,22.2,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-19,>=65,65,15,POST-BACHELORS,24,White Collar,0905-GENERAL ATTORNEY,Professional,"160,000 - 169,999",169999,166500.0,20.9,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-20,>=65,65,13,BACHELORS,34,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"170,000 - 179,999",179999,170800.0,34.0,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-20,45.0-49,49,14,POST-BACHELORS,19,White Collar,0341-ADMINISTRATIVE OFFICER,Administrative,"130,000 - 139,999",139999,136725.0,19.6,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-21,30.0-34,34,13,BACHELORS,14,White Collar,0201-HUMAN RESOURCES MANAGEMENT,Administrative,"150,000 - 159,999",159999,151118.0,14.4,Full-time,F-Full-time Nonseasonal,Involontaire
+05-01-21,45.0-49,49,18,POST MASTERS,19,White Collar,0341-ADMINISTRATIVE OFFICER,Administrative,"130,000 - 139,999",139999,138866.0,15.5,Full-time,F-Full-time Nonseasonal,Involontaire
+03-01-23,40.0-44,44,13,BACHELORS,14,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"120,000 - 129,999",129999,123216.0,12.3,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-21,45.0-49,49,17,MASTERS,4,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"170,000 - 179,999",179999,172500.0,4.7,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-22,45.0-49,49,21,DOCTORATE,14,White Collar,0905-GENERAL ATTORNEY,Professional,"170,000 - 179,999",179999,176300.0,13.4,Full-time,F-Full-time Nonseasonal,Autre
+07-01-20,50.0-54,54,23,,19,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"160,000 - 169,999",169999,164200.0,19.9,Full-time,F-Full-time Nonseasonal,Involontaire
+10-01-20,50.0-54,54,17,MASTERS,19,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"170,000 - 179,999",179999,170800.0,16.3,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-20,40.0-44,44,17,MASTERS,9,White Collar,1712-TRAINING INSTRUCTION,Administrative,"100,000 - 109,999",109999,102663.0,9.2,Full-time,F-Full-time Nonseasonal,Autre
+07-01-21,55.0-59,59,17,MASTERS,9,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"170,000 - 179,999",179999,172500.0,8.7,Full-time,F-Full-time Nonseasonal,Involontaire
+06-01-23,45.0-49,49,17,MASTERS,2,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"50,000 - 59,999",59999,53105.0,1.8,Full-time,F-Full-time Nonseasonal,Autre
+07-01-22,35.0-39,39,4,,14,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"110,000 - 119,999",119999,117505.0,10.5,Full-time,F-Full-time Nonseasonal,Autre
+02-01-21,>=65,65,4,,14,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"60,000 - 69,999",69999,68146.0,10.6,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-21,40.0-44,44,17,MASTERS,9,White Collar,1109-GRANTS MANAGEMENT,Administrative,"70,000 - 79,999",79999,78167.0,6.7,Full-time,F-Full-time Nonseasonal,Autre
+05-01-20,30.0-34,34,17,MASTERS,9,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"90,000 - 99,999",99999,92091.0,5.6,Full-time,F-Full-time Nonseasonal,Autre
+09-01-23,45.0-49,49,23,,4,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"170,000 - 179,999",179999,176300.0,3.4,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-22,35.0-39,39,17,MASTERS,9,White Collar,1109-GRANTS MANAGEMENT,Administrative,"110,000 - 119,999",119999,110798.0,6.1,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-19,30.0-34,34,17,MASTERS,4,White Collar,1109-GRANTS MANAGEMENT,Administrative,"80,000 - 89,999",89999,83398.0,3.8,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-20,35.0-39,39,21,DOCTORATE,4,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"80,000 - 89,999",89999,81634.0,3.8,Full-time,F-Full-time Nonseasonal,Autre
+08-01-21,30.0-34,34,13,BACHELORS,9,White Collar,1109-GRANTS MANAGEMENT,Administrative,"60,000 - 69,999",69999,66142.0,6.5,Full-time,F-Full-time Nonseasonal,Autre
+12-01-20,30.0-34,34,13,BACHELORS,4,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"70,000 - 79,999",79999,76832.0,4.1,Full-time,F-Full-time Nonseasonal,Autre
+09-01-20,30.0-34,34,17,MASTERS,4,White Collar,1109-GRANTS MANAGEMENT,Administrative,"80,000 - 89,999",89999,86335.0,3.2,Full-time,F-Full-time Nonseasonal,Autre
+10-01-20,30.0-34,34,17,MASTERS,4,White Collar,1109-GRANTS MANAGEMENT,Administrative,"80,000 - 89,999",89999,86335.0,3.3,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-22,30.0-34,34,15,POST-BACHELORS,4,White Collar,0905-GENERAL ATTORNEY,Professional,"110,000 - 119,999",119999,110384.0,4.6,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-20,25.0-29,29,17,MASTERS,2,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"70,000 - 79,999",79999,72030.0,1.8,Full-time,F-Full-time Nonseasonal,Autre
+04-01-22,30.0-34,34,13,BACHELORS,9,White Collar,1109-GRANTS MANAGEMENT,Administrative,"70,000 - 79,999",79999,77447.0,5.0,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-22,30.0-34,34,13,BACHELORS,9,White Collar,1109-GRANTS MANAGEMENT,Administrative,"70,000 - 79,999",79999,77447.0,5.0,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-23,40.0-44,44,17,MASTERS,19,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"140,000 - 149,999",149999,145604.0,16.3,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-23,30.0-34,34,21,DOCTORATE,4,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"110,000 - 119,999",119999,112015.0,3.7,Full-time,F-Full-time Nonseasonal,Autre
+02-01-23,25.0-29,29,13,BACHELORS,2,White Collar,1109-GRANTS MANAGEMENT,Administrative,"70,000 - 79,999",79999,78592.0,2.9,Full-time,F-Full-time Nonseasonal,Autre
+07-01-23,40.0-44,44,13,BACHELORS,4,White Collar,1035-PUBLIC AFFAIRS,Administrative,"130,000 - 139,999",139999,132368.0,3.4,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-23,25.0-29,29,13,BACHELORS,2,White Collar,1109-GRANTS MANAGEMENT,Administrative,"70,000 - 79,999",79999,78592.0,2.3,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-22,45.0-49,49,4,,1,White Collar,1109-GRANTS MANAGEMENT,Administrative,"80,000 - 89,999",89999,89834.0,0.3,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-20,60.0-64,64,4,,19,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"70,000 - 79,999",79999,77396.0,16.8,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-19,60.0-64,64,17,MASTERS,19,White Collar,1101-GENERAL BUSINESS AND INDUSTRY,Administrative,"150,000 - 159,999",159999,155500.0,18.4,Full-time,F-Full-time Nonseasonal,Involontaire
+11-01-19,55.0-59,59,13,BACHELORS,24,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"170,000 - 179,999",179999,176900.0,22.2,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-21,50.0-54,54,15,POST-BACHELORS,14,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"160,000 - 169,999",169999,168400.0,13.3,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-21,30.0-34,34,13,BACHELORS,9,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"140,000 - 149,999",149999,148932.0,8.4,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-21,30.0-34,34,13,BACHELORS,4,White Collar,1035-PUBLIC AFFAIRS,Administrative,"80,000 - 89,999",89999,84879.0,3.5,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-20,30.0-34,34,4,,2,White Collar,2005-SUPPLY CLERICAL AND TECHNICIAN,Technical,"50,000 - 59,999",59999,53339.0,2.5,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-20,50.0-54,54,4,,9,White Collar,0856-ELECTRONICS TECHNICAL,Technical,"70,000 - 79,999",79999,73358.0,9.6,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-20,40.0-44,44,8,,9,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"60,000 - 69,999",69999,65488.0,5.0,Full-time,F-Full-time Nonseasonal,Autre
+01-01-21,50.0-54,54,17,MASTERS,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,123256.0,26.2,Full-time,F-Full-time Nonseasonal,Autre
+08-01-21,>=65,65,13,BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,81147.0,22.8,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-23,60.0-64,64,14,POST-BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,104272.0,20.8,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-21,60.0-64,64,13,BACHELORS,34,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"100,000 - 109,999",109999,103309.0,34.3,Full-time,F-Full-time Nonseasonal,Autre
+09-01-20,55.0-59,59,9,,14,Blue Collar,2502-TELECOMMUNICATIONS MECHANIC,Blue Collar,"70,000 - 79,999",79999,75486.0,12.2,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-23,40.0-44,44,17,MASTERS,19,White Collar,0501-FINANCIAL ADMINISTRATION AND PROGRAM,Administrative,"100,000 - 109,999",109999,109898.0,15.0,Full-time,F-Full-time Nonseasonal,Autre
+08-01-20,50.0-54,54,13,BACHELORS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,116402.0,14.3,Full-time,F-Full-time Nonseasonal,Autre
+12-01-22,60.0-64,64,13,BACHELORS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,115785.0,34.2,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-22,55.0-59,59,17,MASTERS,14,White Collar,1712-TRAINING INSTRUCTION,Administrative,"100,000 - 109,999",109999,103810.0,13.9,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-21,55.0-59,59,17,MASTERS,29,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"150,000 - 159,999",159999,159286.0,27.6,Full-time,F-Full-time Nonseasonal,Autre
+04-01-22,55.0-59,59,10,BETWEEN HS & BACHELORS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,121485.0,14.0,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-21,>=65,65,13,BACHELORS,24,White Collar,0080-SECURITY ADMINISTRATION,Administrative,"110,000 - 119,999",119999,117516.0,23.8,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-23,55.0-59,59,13,BACHELORS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,91688.0,30.0,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-22,>=65,65,13,BACHELORS,19,White Collar,1910-QUALITY ASSURANCE,Administrative,"70,000 - 79,999",79999,79684.0,15.7,Full-time,F-Full-time Nonseasonal,Autre
+01-01-22,55.0-59,59,10,BETWEEN HS & BACHELORS,34,White Collar,0132-INTELLIGENCE,Administrative,"170,000 - 179,999",179999,176300.0,32.6,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-20,>=65,65,17,MASTERS,14,White Collar,0341-ADMINISTRATIVE OFFICER,Administrative,"70,000 - 79,999",79999,71442.0,13.0,Full-time,F-Full-time Nonseasonal,Volontaire
+10-01-19,35.0-39,39,17,MASTERS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,85916.0,12.9,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-22,50.0-54,54,13,BACHELORS,19,White Collar,0391-TELECOMMUNICATIONS,Administrative,"100,000 - 109,999",109999,107803.0,17.6,Full-time,F-Full-time Nonseasonal,Autre
+11-01-19,>=65,65,12,BETWEEN HS & BACHELORS,19,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"110,000 - 119,999",119999,115699.0,17.7,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-22,55.0-59,59,13,BACHELORS,34,White Collar,0560-BUDGET ANALYSIS,Administrative,"90,000 - 99,999",99999,95830.0,32.2,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-20,55.0-59,59,4,,24,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"70,000 - 79,999",79999,77001.0,22.6,Full-time,F-Full-time Nonseasonal,Autre
+05-01-22,>=65,65,13,BACHELORS,24,White Collar,1102-CONTRACTING,Professional,"140,000 - 149,999",149999,143495.0,20.2,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-19,50.0-54,54,13,BACHELORS,14,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"100,000 - 109,999",109999,109088.0,14.0,Full-time,F-Full-time Nonseasonal,Autre
+11-01-21,55.0-59,59,17,MASTERS,19,White Collar,0201-HUMAN RESOURCES MANAGEMENT,Administrative,"110,000 - 119,999",119999,119620.0,18.6,Full-time,F-Full-time Nonseasonal,Autre
+09-01-22,60.0-64,64,4,,19,White Collar,0391-TELECOMMUNICATIONS,Administrative,"120,000 - 129,999",129999,121152.0,17.7,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-21,55.0-59,59,10,BETWEEN HS & BACHELORS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,80460.0,13.3,Full-time,F-Full-time Nonseasonal,Autre
+01-01-23,50.0-54,54,17,MASTERS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,116785.0,14.2,Full-time,F-Full-time Nonseasonal,Autre
+01-01-21,40.0-44,44,17,MASTERS,14,White Collar,1102-CONTRACTING,Professional,"80,000 - 89,999",89999,85650.0,11.9,Full-time,F-Full-time Nonseasonal,Autre
+12-01-21,60.0-64,64,4,,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,81147.0,26.7,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-22,35.0-39,39,13,BACHELORS,9,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"80,000 - 89,999",89999,82443.0,6.3,Full-time,F-Full-time Nonseasonal,Autre
+04-01-21,50.0-54,54,4,,2,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,90668.0,1.1,Full-time,F-Full-time Nonseasonal,Autre
+08-01-22,45.0-49,49,11,BETWEEN HS & BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,98341.0,22.1,Full-time,F-Full-time Nonseasonal,Involontaire
+01-01-21,55.0-59,59,4,,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"70,000 - 79,999",79999,78954.0,10.8,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-22,55.0-59,59,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,104934.0,15.9,Full-time,F-Full-time Nonseasonal,Involontaire
+07-01-23,50.0-54,54,21,DOCTORATE,14,White Collar,1515-OPERATIONS RESEARCH,Professional,"130,000 - 139,999",139999,136894.0,10.4,Full-time,F-Full-time Nonseasonal,Autre
+03-01-21,50.0-54,54,10,BETWEEN HS & BACHELORS,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,92713.0,9.6,Full-time,F-Full-time Nonseasonal,Autre
+11-01-21,40.0-44,44,4,,14,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"70,000 - 79,999",79999,71116.0,10.3,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-20,40.0-44,44,13,BACHELORS,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,91796.0,8.8,Full-time,F-Full-time Nonseasonal,Autre
+11-01-21,>=65,65,4,,9,White Collar,0391-TELECOMMUNICATIONS,Administrative,"80,000 - 89,999",89999,87304.0,9.4,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-20,30.0-34,34,4,,4,White Collar,11-30-82,Other White Collar,"60,000 - 69,999",69999,60918.0,3.9,Full-time,F-Full-time Nonseasonal,Autre
+12-01-22,45.0-49,49,17,MASTERS,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,126390.0,8.8,Full-time,F-Full-time Nonseasonal,Autre
+04-01-20,25.0-29,29,9,,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"60,000 - 69,999",69999,67224.0,5.8,Full-time,F-Full-time Nonseasonal,Autre
+01-01-23,35.0-39,39,11,BETWEEN HS & BACHELORS,9,White Collar,2001-GENERAL SUPPLY,Technical,"100,000 - 109,999",109999,100183.0,8.3,Full-time,F-Full-time Nonseasonal,Autre
+12-01-22,45.0-49,49,17,MASTERS,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,117302.0,8.1,Full-time,F-Full-time Nonseasonal,Autre
+08-01-20,50.0-54,54,10,BETWEEN HS & BACHELORS,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,86952.0,5.6,Full-time,F-Full-time Nonseasonal,Volontaire
+10-01-19,45.0-49,49,13,BACHELORS,4,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"70,000 - 79,999",79999,78034.0,4.7,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-21,60.0-64,64,4,,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,102957.0,5.9,Full-time,F-Full-time Nonseasonal,Autre
+11-01-20,35.0-39,39,11,BETWEEN HS & BACHELORS,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,119775.0,5.3,Full-time,F-Full-time Nonseasonal,Autre
+01-01-20,50.0-54,54,13,BACHELORS,4,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,94970.0,4.5,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-21,55.0-59,59,13,BACHELORS,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,88135.0,6.3,Full-time,F-Full-time Nonseasonal,Involontaire
+12-01-22,55.0-59,59,17,MASTERS,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,114406.0,7.3,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-19,60.0-64,64,17,MASTERS,4,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"120,000 - 129,999",129999,122716.0,4.0,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-21,55.0-59,59,18,POST MASTERS,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,132723.0,5.6,Full-time,F-Full-time Nonseasonal,Involontaire
+10-01-20,60.0-64,64,17,MASTERS,4,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"110,000 - 119,999",119999,112930.0,3.1,Full-time,F-Full-time Nonseasonal,Autre
+07-01-22,35.0-39,39,10,BETWEEN HS & BACHELORS,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,85148.0,6.2,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-22,50.0-54,54,11,BETWEEN HS & BACHELORS,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,84941.0,5.6,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-22,40.0-44,44,10,BETWEEN HS & BACHELORS,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,122672.0,6.3,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-19,45.0-49,49,17,MASTERS,4,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"70,000 - 79,999",79999,79569.0,3.3,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-20,40.0-44,44,13,BACHELORS,4,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"60,000 - 69,999",69999,61292.0,3.7,Full-time,F-Full-time Nonseasonal,Autre
+07-01-20,45.0-49,49,4,,4,Blue Collar,2502-TELECOMMUNICATIONS MECHANIC,Blue Collar,"70,000 - 79,999",79999,78471.0,3.8,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-22,40.0-44,44,17,MASTERS,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,82643.0,5.8,Full-time,F-Full-time Nonseasonal,Autre
+12-01-22,35.0-39,39,4,,9,White Collar,0391-TELECOMMUNICATIONS,Administrative,"70,000 - 79,999",79999,77598.0,5.9,Full-time,F-Full-time Nonseasonal,Autre
+04-01-20,35.0-39,39,13,BACHELORS,4,White Collar,0132-INTELLIGENCE,Administrative,"120,000 - 129,999",129999,125360.0,3.2,Full-time,F-Full-time Nonseasonal,Autre
+12-01-19,50.0-54,54,17,MASTERS,24,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"100,000 - 109,999",109999,107372.0,20.2,Full-time,F-Full-time Nonseasonal,Autre
+06-01-21,50.0-54,54,7,,14,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"100,000 - 109,999",109999,105546.0,13.8,Full-time,F-Full-time Nonseasonal,Autre
+10-01-20,60.0-64,64,4,,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,97848.0,31.0,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-22,55.0-59,59,13,BACHELORS,19,White Collar,0391-TELECOMMUNICATIONS,Administrative,"60,000 - 69,999",69999,68046.0,18.5,Full-time,F-Full-time Nonseasonal,Involontaire
+10-01-21,>=65,65,13,BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,130661.0,24.0,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-21,>=65,65,4,,19,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"80,000 - 89,999",89999,89730.0,15.3,Full-time,F-Full-time Nonseasonal,Autre
+02-01-23,30.0-34,34,18,POST MASTERS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,121239.0,13.3,Full-time,F-Full-time Nonseasonal,Autre
+12-01-20,60.0-64,64,4,,24,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"160,000 - 169,999",169999,162027.0,20.0,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-19,60.0-64,64,10,BETWEEN HS & BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,87494.0,17.3,Full-time,F-Full-time Nonseasonal,Autre
+09-01-20,40.0-44,44,17,MASTERS,19,White Collar,0854-COMPUTER ENGINEERING,Professional,"80,000 - 89,999",89999,89173.0,15.2,Full-time,F-Full-time Nonseasonal,Autre
+04-01-22,60.0-64,64,10,BETWEEN HS & BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,82926.0,17.0,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-21,60.0-64,64,13,BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"150,000 - 159,999",159999,155202.0,20.3,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-21,45.0-49,49,4,,14,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"90,000 - 99,999",99999,90923.0,12.4,Full-time,F-Full-time Nonseasonal,Autre
+02-01-20,35.0-39,39,4,,2,White Collar,11-30-82,Other White Collar,"50,000 - 59,999",59999,53709.0,1.7,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-22,60.0-64,64,9,,19,White Collar,11-30-82,Other White Collar,"80,000 - 89,999",89999,85154.0,19.3,Full-time,F-Full-time Nonseasonal,Involontaire
+07-01-22,60.0-64,64,9,,19,White Collar,11-30-82,Other White Collar,"80,000 - 89,999",89999,85154.0,19.3,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-21,60.0-64,64,4,,19,White Collar,1640-FACILITY OPERATIONS SERVICES,Administrative,"70,000 - 79,999",79999,78167.0,19.8,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-20,60.0-64,64,13,BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,132960.0,21.8,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-22,45.0-49,49,13,BACHELORS,19,White Collar,0560-BUDGET ANALYSIS,Administrative,"50,000 - 59,999",59999,56983.0,15.0,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-19,55.0-59,59,13,BACHELORS,34,White Collar,0510-ACCOUNTING,Professional,"90,000 - 99,999",99999,92004.0,33.7,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-21,40.0-44,44,12,BETWEEN HS & BACHELORS,14,White Collar,0201-HUMAN RESOURCES MANAGEMENT,Administrative,"50,000 - 59,999",59999,56995.0,10.8,Full-time,F-Full-time Nonseasonal,Autre
+01-01-21,50.0-54,54,17,MASTERS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,123516.0,30.4,Full-time,F-Full-time Nonseasonal,Autre
+08-01-22,60.0-64,64,4,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,138939.0,21.4,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-21,60.0-64,64,4,,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,103542.0,31.7,Full-time,F-Full-time Nonseasonal,Volontaire
+10-01-19,50.0-54,54,17,MASTERS,19,White Collar,1515-OPERATIONS RESEARCH,Professional,"110,000 - 119,999",119999,119836.0,19.2,Full-time,F-Full-time Nonseasonal,Involontaire
+11-01-20,60.0-64,64,7,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,82510.0,36.8,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-21,50.0-54,54,4,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,100660.0,24.8,Full-time,F-Full-time Nonseasonal,Autre
+04-01-21,50.0-54,54,13,BACHELORS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,92988.0,12.9,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-20,60.0-64,64,4,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,98001.0,36.7,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-21,>=65,65,8,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,112563.0,36.8,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-23,55.0-59,59,4,,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,93875.0,17.3,Full-time,F-Full-time Nonseasonal,Autre
+12-01-20,55.0-59,59,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,110650.0,17.6,Full-time,F-Full-time Nonseasonal,Autre
+01-01-22,60.0-64,64,9,,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,99207.0,33.7,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-20,60.0-64,64,17,MASTERS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,129367.0,31.3,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-22,40.0-44,44,17,MASTERS,19,White Collar,0855-ELECTRONICS ENGINEERING,Professional,"130,000 - 139,999",139999,135632.0,18.6,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-19,60.0-64,64,7,,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"70,000 - 79,999",79999,75152.0,30.5,Full-time,F-Full-time Nonseasonal,Involontaire
+07-01-23,50.0-54,54,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,130683.0,16.0,Full-time,F-Full-time Nonseasonal,Autre
+07-01-21,>=65,65,4,,29,Blue Collar,2502-TELECOMMUNICATIONS MECHANIC,Blue Collar,"90,000 - 99,999",99999,98109.0,29.8,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-21,55.0-59,59,8,,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,100168.0,16.3,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-21,55.0-59,59,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"160,000 - 169,999",169999,163559.0,15.3,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-20,50.0-54,54,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,112887.0,16.7,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-23,60.0-64,64,13,BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,96636.0,20.0,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-20,55.0-59,59,10,BETWEEN HS & BACHELORS,19,White Collar,0080-SECURITY ADMINISTRATION,Administrative,"140,000 - 149,999",149999,144538.0,19.8,Full-time,F-Full-time Nonseasonal,Autre
+01-01-20,>=65,65,13,BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,84682.0,22.8,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-23,55.0-59,59,17,MASTERS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,115022.0,12.3,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-21,55.0-59,59,4,,24,White Collar,0303-MISCELLANEOUS CLERK AND ASSISTANT,Technical,"70,000 - 79,999",79999,70775.0,22.9,Full-time,F-Full-time Nonseasonal,Autre
+12-01-21,>=65,65,8,,35,White Collar,0080-SECURITY ADMINISTRATION,Administrative,"70,000 - 79,999",79999,73271.0,39.5,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-22,>=65,65,10,BETWEEN HS & BACHELORS,24,White Collar,0391-TELECOMMUNICATIONS,Administrative,"80,000 - 89,999",89999,81961.0,24.2,Full-time,F-Full-time Nonseasonal,Autre
+12-01-22,55.0-59,59,13,BACHELORS,35,White Collar,0391-TELECOMMUNICATIONS,Administrative,"130,000 - 139,999",139999,138868.0,36.2,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-21,>=65,65,4,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,112563.0,20.8,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-19,50.0-54,54,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,87030.0,15.1,Full-time,F-Full-time Nonseasonal,Involontaire
+05-01-22,50.0-54,54,21,DOCTORATE,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"160,000 - 169,999",169999,161786.0,17.3,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-23,55.0-59,59,4,,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,94308.0,34.4,Full-time,F-Full-time Nonseasonal,Autre
+09-01-22,50.0-54,54,17,MASTERS,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"140,000 - 149,999",149999,141259.0,25.2,Full-time,F-Full-time Nonseasonal,Autre
+08-01-22,55.0-59,59,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,124340.0,19.0,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-23,60.0-64,64,17,MASTERS,35,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"120,000 - 129,999",129999,129761.0,37.2,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-22,>=65,65,10,BETWEEN HS & BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,94932.0,22.0,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-21,50.0-54,54,13,BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,111117.0,24.7,Full-time,F-Full-time Nonseasonal,Autre
+08-01-21,40.0-44,44,17,MASTERS,14,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"50,000 - 59,999",59999,59907.0,14.2,Full-time,F-Full-time Nonseasonal,Autre
+07-01-22,40.0-44,44,17,MASTERS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,103810.0,13.8,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-20,55.0-59,59,21,DOCTORATE,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,132960.0,18.5,Full-time,F-Full-time Nonseasonal,Volontaire
+06-01-23,60.0-64,64,13,BACHELORS,24,White Collar,0080-SECURITY ADMINISTRATION,Administrative,"90,000 - 99,999",99999,95406.0,21.9,Full-time,F-Full-time Nonseasonal,Autre
+04-01-20,55.0-59,59,13,BACHELORS,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,99741.0,35.9,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-21,>=65,65,10,BETWEEN HS & BACHELORS,24,White Collar,2005-SUPPLY CLERICAL AND TECHNICIAN,Technical,"60,000 - 69,999",69999,60493.0,23.8,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-23,60.0-64,64,4,,19,White Collar,0132-INTELLIGENCE,Administrative,"130,000 - 139,999",139999,138150.0,16.3,Full-time,F-Full-time Nonseasonal,Volontaire
+10-01-20,60.0-64,64,6,,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,90357.0,27.9,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-22,60.0-64,64,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,100939.0,19.1,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-21,50.0-54,54,13,BACHELORS,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,100660.0,25.9,Full-time,F-Full-time Nonseasonal,Autre
+12-01-22,60.0-64,64,7,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,104482.0,20.7,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-21,55.0-59,59,7,,34,White Collar,0391-TELECOMMUNICATIONS,Administrative,"120,000 - 129,999",129999,124428.0,32.9,Full-time,F-Full-time Nonseasonal,Autre
+02-01-23,60.0-64,64,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"180,000 - 189,999",189999,183500.0,18.6,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-20,35.0-39,39,17,MASTERS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,118587.0,14.8,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-20,55.0-59,59,4,,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"140,000 - 149,999",149999,140146.0,30.3,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-22,40.0-44,44,4,,19,White Collar,0560-BUDGET ANALYSIS,Administrative,"100,000 - 109,999",109999,107857.0,16.7,Full-time,F-Full-time Nonseasonal,Autre
+07-01-20,45.0-49,49,13,BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,98396.0,21.2,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-21,45.0-49,49,4,,29,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"80,000 - 89,999",89999,80197.0,29.5,Full-time,F-Full-time Nonseasonal,Autre
+01-01-22,60.0-64,64,13,BACHELORS,35,White Collar,0830-MECHANICAL ENGINEERING,Professional,"120,000 - 129,999",129999,121068.0,40.1,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-20,50.0-54,54,17,MASTERS,24,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"90,000 - 99,999",99999,94626.0,22.3,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-21,45.0-49,49,4,,19,White Collar,0501-FINANCIAL ADMINISTRATION AND PROGRAM,Administrative,"120,000 - 129,999",129999,127645.0,19.6,Full-time,F-Full-time Nonseasonal,Autre
+12-01-21,55.0-59,59,4,,29,White Collar,0391-TELECOMMUNICATIONS,Administrative,"100,000 - 109,999",109999,100739.0,29.8,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-20,40.0-44,44,7,,19,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"100,000 - 109,999",109999,109508.0,15.6,Full-time,F-Full-time Nonseasonal,Autre
+12-01-22,55.0-59,59,4,,35,White Collar,0303-MISCELLANEOUS CLERK AND ASSISTANT,Technical,"60,000 - 69,999",69999,65069.0,36.8,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-20,50.0-54,54,13,BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,94623.0,22.0,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-20,60.0-64,64,4,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,84682.0,35.7,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-22,60.0-64,64,4,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,87439.0,42.3,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-22,30.0-34,34,13,BACHELORS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,84941.0,14.9,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-20,45.0-49,49,10,BETWEEN HS & BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,84682.0,20.0,Full-time,F-Full-time Nonseasonal,Autre
+04-01-22,>=65,65,4,,29,White Collar,0303-MISCELLANEOUS CLERK AND ASSISTANT,Technical,"80,000 - 89,999",89999,80532.0,26.4,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-23,55.0-59,59,8,,19,White Collar,0391-TELECOMMUNICATIONS,Administrative,"110,000 - 119,999",119999,119319.0,18.0,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-23,60.0-64,64,4,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,104996.0,24.3,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-20,60.0-64,64,17,MASTERS,35,White Collar,2001-GENERAL SUPPLY,Technical,"60,000 - 69,999",69999,68777.0,35.3,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-20,60.0-64,64,7,,34,White Collar,0346-LOGISTICS MANAGEMENT,Administrative,"140,000 - 149,999",149999,140823.0,33.3,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-20,55.0-59,59,17,MASTERS,29,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"110,000 - 119,999",119999,119004.0,25.1,Full-time,F-Full-time Nonseasonal,Involontaire
+02-01-20,40.0-44,44,4,,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,86952.0,11.8,Full-time,F-Full-time Nonseasonal,Autre
+07-01-21,55.0-59,59,4,,14,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"80,000 - 89,999",89999,80123.0,14.2,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-22,60.0-64,64,13,BACHELORS,35,White Collar,0855-ELECTRONICS ENGINEERING,Professional,"160,000 - 169,999",169999,166159.0,36.1,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-22,>=65,65,4,,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"170,000 - 179,999",179999,176300.0,33.6,Full-time,F-Full-time Nonseasonal,Involontaire
+06-01-22,60.0-64,64,8,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"70,000 - 79,999",79999,79595.0,20.5,Full-time,F-Full-time Nonseasonal,Autre
+07-01-21,55.0-59,59,4,,35,White Collar,2001-GENERAL SUPPLY,Administrative,"80,000 - 89,999",89999,80590.0,39.0,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-22,55.0-59,59,13,BACHELORS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"140,000 - 149,999",149999,141259.0,30.0,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-22,55.0-59,59,13,BACHELORS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,104207.0,33.0,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-21,60.0-64,64,9,,34,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"90,000 - 99,999",99999,95572.0,32.9,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-22,55.0-59,59,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,121821.0,15.3,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-21,60.0-64,64,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,133284.0,17.7,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-23,40.0-44,44,13,BACHELORS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,86030.0,14.8,Full-time,F-Full-time Nonseasonal,Autre
+02-01-21,60.0-64,64,4,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"70,000 - 79,999",79999,77879.0,36.8,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-21,60.0-64,64,17,MASTERS,35,White Collar,2001-GENERAL SUPPLY,Administrative,"90,000 - 99,999",99999,95572.0,38.3,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-22,60.0-64,64,4,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,106309.0,36.2,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-22,>=65,65,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"140,000 - 149,999",149999,141259.0,16.5,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-22,>=65,65,17,MASTERS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"140,000 - 149,999",149999,147746.0,33.8,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-20,45.0-49,49,9,,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,84682.0,11.8,Full-time,F-Full-time Nonseasonal,Autre
+12-01-19,40.0-44,44,4,,9,White Collar,0303-MISCELLANEOUS CLERK AND ASSISTANT,Technical,"50,000 - 59,999",59999,55886.0,7.8,Full-time,F-Full-time Nonseasonal,Involontaire
+12-01-22,55.0-59,59,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,89585.0,15.2,Full-time,F-Full-time Nonseasonal,Involontaire
+08-01-20,>=65,65,13,BACHELORS,35,White Collar,0346-LOGISTICS MANAGEMENT,Administrative,"170,000 - 179,999",179999,172516.0,44.3,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-21,60.0-64,64,7,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"150,000 - 159,999",159999,157614.0,22.8,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-21,55.0-59,59,4,,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,98988.0,32.0,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-22,40.0-44,44,17,MASTERS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,87301.0,11.3,Full-time,F-Full-time Nonseasonal,Autre
+12-01-20,55.0-59,59,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"70,000 - 79,999",79999,78168.0,16.2,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-22,60.0-64,64,13,BACHELORS,24,White Collar,1102-CONTRACTING,Professional,"120,000 - 129,999",129999,121039.0,21.3,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-22,50.0-54,54,17,MASTERS,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,89947.0,8.9,Full-time,F-Full-time Nonseasonal,Autre
+01-01-22,45.0-49,49,6,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,120668.0,20.5,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-21,60.0-64,64,4,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,109197.0,38.8,Full-time,F-Full-time Nonseasonal,Volontaire
+06-01-22,60.0-64,64,13,BACHELORS,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,127170.0,29.8,Full-time,F-Full-time Nonseasonal,Autre
+12-01-20,55.0-59,59,9,,34,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"80,000 - 89,999",89999,81358.0,31.9,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-22,60.0-64,64,17,MASTERS,19,White Collar,0201-HUMAN RESOURCES MANAGEMENT,Administrative,"60,000 - 69,999",69999,63848.0,17.0,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-20,60.0-64,64,10,BETWEEN HS & BACHELORS,34,White Collar,0394-COMMUNICATIONS CLERICAL,Clerical,"50,000 - 59,999",59999,57972.0,32.1,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-22,>=65,65,4,,35,White Collar,11-30-17,Clerical,"60,000 - 69,999",69999,65640.0,46.2,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-22,35.0-39,39,13,BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,87407.0,21.2,Full-time,F-Full-time Nonseasonal,Autre
+03-01-22,45.0-49,49,8,,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,85355.0,14.9,Full-time,F-Full-time Nonseasonal,Autre
+12-01-20,55.0-59,59,4,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"70,000 - 79,999",79999,78890.0,37.8,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-22,50.0-54,54,4,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,105579.0,22.3,Full-time,F-Full-time Nonseasonal,Autre
+03-01-21,>=65,65,10,BETWEEN HS & BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,100739.0,20.1,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-23,60.0-64,64,13,BACHELORS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,101454.0,14.3,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-21,60.0-64,64,9,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,95569.0,20.3,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-21,50.0-54,54,10,BETWEEN HS & BACHELORS,24,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"110,000 - 119,999",119999,117182.0,24.1,Full-time,F-Full-time Nonseasonal,Autre
+12-01-19,>=65,65,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"70,000 - 79,999",79999,76191.0,15.2,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-22,45.0-49,49,10,BETWEEN HS & BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,116788.0,17.1,Full-time,F-Full-time Nonseasonal,Autre
+03-01-20,45.0-49,49,17,MASTERS,14,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"70,000 - 79,999",79999,70409.0,13.4,Full-time,F-Full-time Nonseasonal,Autre
+10-01-20,60.0-64,64,21,DOCTORATE,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,130541.0,15.8,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-22,45.0-49,49,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,127942.0,15.9,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-19,60.0-64,64,4,,14,White Collar,2001-GENERAL SUPPLY,Technical,"60,000 - 69,999",69999,65809.0,14.2,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-19,>=65,65,13,BACHELORS,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,118812.0,35.3,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-20,50.0-54,54,12,BETWEEN HS & BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"70,000 - 79,999",79999,78168.0,15.2,Full-time,F-Full-time Nonseasonal,Involontaire
+10-01-20,60.0-64,64,12,BETWEEN HS & BACHELORS,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,86480.0,35.8,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-23,55.0-59,59,7,,19,Blue Collar,2502-TELECOMMUNICATIONS MECHANIC,Blue Collar,"60,000 - 69,999",69999,64363.0,15.4,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-22,55.0-59,59,13,BACHELORS,34,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"60,000 - 69,999",69999,67497.0,32.3,Full-time,F-Full-time Nonseasonal,Volontaire
+10-01-20,60.0-64,64,4,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,112520.0,23.1,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-22,55.0-59,59,7,,35,White Collar,0560-BUDGET ANALYSIS,Administrative,"90,000 - 99,999",99999,90868.0,36.9,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-19,60.0-64,64,17,MASTERS,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"140,000 - 149,999",149999,140632.0,25.3,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-21,>=65,65,14,POST-BACHELORS,24,White Collar,0344-MANAGEMENT AND PROGRAM CLERICAL AND ASSISTANCE,Technical,"50,000 - 59,999",59999,53877.0,23.5,Full-time,F-Full-time Nonseasonal,Volontaire
+10-01-21,40.0-44,44,4,,24,White Collar,2001-GENERAL SUPPLY,Technical,"60,000 - 69,999",69999,69413.0,21.0,Full-time,F-Full-time Nonseasonal,Autre
+04-01-22,50.0-54,54,4,,29,White Collar,0201-HUMAN RESOURCES MANAGEMENT,Administrative,"90,000 - 99,999",99999,98887.0,27.4,Full-time,F-Full-time Nonseasonal,Autre
+12-01-22,>=65,65,17,MASTERS,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,123939.0,41.8,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-23,60.0-64,64,11,BETWEEN HS & BACHELORS,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,91113.0,28.9,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-22,>=65,65,13,BACHELORS,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,102872.0,27.2,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-23,55.0-59,59,13,BACHELORS,19,White Collar,0854-COMPUTER ENGINEERING,Professional,"100,000 - 109,999",109999,109908.0,17.5,Full-time,F-Full-time Nonseasonal,Autre
+04-01-23,60.0-64,64,13,BACHELORS,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,133176.0,35.7,Full-time,F-Full-time Nonseasonal,Volontaire
+10-01-20,60.0-64,64,13,BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,97183.0,20.0,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-23,45.0-49,49,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,88659.0,15.4,Full-time,F-Full-time Nonseasonal,Autre
+03-01-22,60.0-64,64,13,BACHELORS,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,87237.0,40.5,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-22,60.0-64,64,9,,4,White Collar,0391-TELECOMMUNICATIONS,Administrative,"90,000 - 99,999",99999,90457.0,3.0,Full-time,F-Full-time Nonseasonal,Involontaire
+10-01-22,55.0-59,59,13,BACHELORS,29,White Collar,0510-ACCOUNTING,Professional,"90,000 - 99,999",99999,92593.0,25.7,Full-time,F-Full-time Nonseasonal,Involontaire
+02-01-20,40.0-44,44,6,,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,112930.0,14.6,Full-time,F-Full-time Nonseasonal,Autre
+09-01-20,35.0-39,39,17,MASTERS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,84682.0,12.2,Full-time,F-Full-time Nonseasonal,Involontaire
+10-01-19,35.0-39,39,17,MASTERS,14,White Collar,1550-COMPUTER SCIENCE,Professional,"100,000 - 109,999",109999,108316.0,11.7,Full-time,F-Full-time Nonseasonal,Autre
+01-01-20,35.0-39,39,10,BETWEEN HS & BACHELORS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,99741.0,11.6,Full-time,F-Full-time Nonseasonal,Autre
+12-01-21,>=65,65,8,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,106620.0,22.5,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-21,30.0-34,34,13,BACHELORS,2,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,83959.0,2.3,Full-time,F-Full-time Nonseasonal,Autre
+12-01-20,60.0-64,64,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,110902.0,17.3,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-23,60.0-64,64,4,,19,White Collar,0391-TELECOMMUNICATIONS,Administrative,"80,000 - 89,999",89999,88795.0,18.3,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-23,45.0-49,49,10,BETWEEN HS & BACHELORS,24,White Collar,0560-BUDGET ANALYSIS,Administrative,"120,000 - 129,999",129999,122459.0,21.6,Full-time,F-Full-time Nonseasonal,Autre
+10-01-19,>=65,65,10,BETWEEN HS & BACHELORS,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,82542.0,44.2,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-23,45.0-49,49,13,BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,118194.0,20.6,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-22,35.0-39,39,13,BACHELORS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,80685.0,14.1,Full-time,F-Full-time Nonseasonal,Autre
+12-01-20,55.0-59,59,7,,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,133465.0,34.2,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-21,60.0-64,64,4,,19,Blue Collar,2502-TELECOMMUNICATIONS MECHANIC,Blue Collar,"50,000 - 59,999",59999,56724.0,15.4,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-21,55.0-59,59,13,BACHELORS,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"140,000 - 149,999",149999,145955.0,27.1,Full-time,F-Full-time Nonseasonal,Autre
+03-01-21,>=65,65,12,BETWEEN HS & BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,121068.0,15.7,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-23,45.0-49,49,17,MASTERS,19,White Collar,11-30-82,Other White Collar,"60,000 - 69,999",69999,63716.0,18.9,Full-time,F-Full-time Nonseasonal,Autre
+10-01-19,35.0-39,39,13,BACHELORS,24,White Collar,0501-FINANCIAL ADMINISTRATION AND PROGRAM,Administrative,"80,000 - 89,999",89999,83398.0,22.3,Full-time,F-Full-time Nonseasonal,Autre
+12-01-21,55.0-59,59,17,MASTERS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,121068.0,31.5,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-20,55.0-59,59,13,BACHELORS,19,White Collar,0391-TELECOMMUNICATIONS,Administrative,"70,000 - 79,999",79999,70579.0,15.8,Full-time,F-Full-time Nonseasonal,Autre
+12-01-21,55.0-59,59,7,,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,139394.0,34.9,Full-time,F-Full-time Nonseasonal,Volontaire
+06-01-22,>=65,65,13,BACHELORS,29,White Collar,0854-COMPUTER ENGINEERING,Professional,"120,000 - 129,999",129999,123939.0,26.2,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-21,60.0-64,64,4,,19,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"90,000 - 99,999",99999,95572.0,15.9,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-21,60.0-64,64,4,,24,White Collar,11-30-82,Other White Collar,"70,000 - 79,999",79999,70330.0,20.1,Full-time,F-Full-time Nonseasonal,Autre
+02-01-23,40.0-44,44,13,BACHELORS,19,White Collar,0080-SECURITY ADMINISTRATION,Administrative,"110,000 - 119,999",119999,113449.0,15.3,Full-time,F-Full-time Nonseasonal,Autre
+11-01-19,>=65,65,17,MASTERS,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,121110.0,40.3,Full-time,F-Full-time Nonseasonal,Volontaire
+06-01-22,50.0-54,54,4,,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,122683.0,26.7,Full-time,F-Full-time Nonseasonal,Autre
+08-01-23,45.0-49,49,17,MASTERS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,139670.0,24.1,Full-time,F-Full-time Nonseasonal,Autre
+01-01-22,>=65,65,4,,29,White Collar,0856-ELECTRONICS TECHNICAL,Technical,"110,000 - 119,999",119999,110798.0,26.1,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-20,60.0-64,64,17,MASTERS,14,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"100,000 - 109,999",109999,105290.0,11.5,Full-time,F-Full-time Nonseasonal,Volontaire
+10-01-19,60.0-64,64,10,BETWEEN HS & BACHELORS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,92224.0,34.9,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-20,55.0-59,59,16,POST-BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,102288.0,18.8,Full-time,F-Full-time Nonseasonal,Autre
+01-01-21,55.0-59,59,8,,19,White Collar,0391-TELECOMMUNICATIONS,Administrative,"150,000 - 159,999",159999,159286.0,18.8,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-20,60.0-64,64,13,BACHELORS,34,White Collar,0018-SAFETY AND OCCUPATIONAL HEALTH MANAGEMENT,Administrative,"120,000 - 129,999",129999,126620.0,31.8,Full-time,F-Full-time Nonseasonal,Volontaire
+10-01-20,45.0-49,49,17,MASTERS,19,White Collar,1550-COMPUTER SCIENCE,Professional,"120,000 - 129,999",129999,125659.0,16.3,Full-time,F-Full-time Nonseasonal,Autre
+09-01-21,55.0-59,59,4,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,106317.0,38.3,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-20,>=65,65,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,111449.0,16.5,Full-time,F-Full-time Nonseasonal,Involontaire
+12-01-21,30.0-34,34,13,BACHELORS,9,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"60,000 - 69,999",69999,63902.0,6.1,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-21,55.0-59,59,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,104429.0,17.2,Full-time,F-Full-time Nonseasonal,Autre
+11-01-19,45.0-49,49,13,BACHELORS,14,White Collar,0260-EQUAL EMPLOYMENT OPPORTUNITY,Administrative,"100,000 - 109,999",109999,109088.0,11.3,Full-time,F-Full-time Nonseasonal,Autre
+07-01-20,55.0-59,59,13,BACHELORS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"140,000 - 149,999",149999,149621.0,34.3,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-20,60.0-64,64,4,,34,Blue Collar,6907-MATERIALS HANDLER,Blue Collar,"40,000 - 49,999",49999,44849.0,31.1,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-20,60.0-64,64,9,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,128920.0,42.3,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-23,50.0-54,54,10,BETWEEN HS & BACHELORS,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,123041.0,36.8,Full-time,F-Full-time Nonseasonal,Autre
+08-01-21,60.0-64,64,13,BACHELORS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,134798.0,34.9,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-23,55.0-59,59,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,104919.0,15.0,Full-time,F-Full-time Nonseasonal,Autre
+09-01-22,45.0-49,49,13,BACHELORS,14,White Collar,0080-SECURITY ADMINISTRATION,Administrative,"90,000 - 99,999",99999,96214.0,14.9,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-23,50.0-54,54,13,BACHELORS,19,White Collar,0132-INTELLIGENCE,Administrative,"140,000 - 149,999",149999,145890.0,19.0,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-21,55.0-59,59,13,BACHELORS,34,White Collar,0855-ELECTRONICS ENGINEERING,Professional,"130,000 - 139,999",139999,132058.0,30.6,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-20,60.0-64,64,17,MASTERS,14,White Collar,2001-GENERAL SUPPLY,Technical,"50,000 - 59,999",59999,58195.0,13.2,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-19,60.0-64,64,7,,35,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"120,000 - 129,999",129999,128920.0,35.0,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-21,60.0-64,64,7,,29,White Collar,0391-TELECOMMUNICATIONS,Administrative,"80,000 - 89,999",89999,89646.0,28.3,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-21,60.0-64,64,10,BETWEEN HS & BACHELORS,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,112563.0,29.8,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-22,55.0-59,59,10,BETWEEN HS & BACHELORS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,109924.0,34.0,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-20,60.0-64,64,7,,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,103605.0,33.7,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-22,60.0-64,64,10,BETWEEN HS & BACHELORS,34,White Collar,2005-SUPPLY CLERICAL AND TECHNICIAN,Technical,"70,000 - 79,999",79999,73513.0,31.6,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-22,60.0-64,64,8,,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,92434.0,14.4,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-22,60.0-64,64,4,,14,White Collar,0391-TELECOMMUNICATIONS,Administrative,"110,000 - 119,999",119999,114776.0,14.4,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-20,40.0-44,44,13,BACHELORS,14,White Collar,0132-INTELLIGENCE,Administrative,"130,000 - 139,999",139999,130043.0,13.0,Full-time,F-Full-time Nonseasonal,Volontaire
+06-01-21,60.0-64,64,4,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,117963.0,20.3,Full-time,F-Full-time Nonseasonal,Volontaire
+06-01-22,60.0-64,64,10,BETWEEN HS & BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,97671.0,24.8,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-22,45.0-49,49,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,110867.0,15.4,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-23,45.0-49,49,13,BACHELORS,19,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"130,000 - 139,999",139999,130131.0,17.7,Full-time,F-Full-time Nonseasonal,Autre
+03-01-20,50.0-54,54,14,POST-BACHELORS,14,White Collar,0391-TELECOMMUNICATIONS,Administrative,"80,000 - 89,999",89999,84100.0,13.6,Full-time,F-Full-time Nonseasonal,Autre
+12-01-22,>=65,65,14,POST-BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,92283.0,20.2,Full-time,F-Full-time Nonseasonal,Volontaire
+06-01-22,60.0-64,64,4,,29,White Collar,2001-GENERAL SUPPLY,Technical,"60,000 - 69,999",69999,63848.0,26.5,Full-time,F-Full-time Nonseasonal,Autre
+03-01-21,55.0-59,59,13,BACHELORS,24,White Collar,0855-ELECTRONICS ENGINEERING,Professional,"110,000 - 119,999",119999,114859.0,24.7,Full-time,F-Full-time Nonseasonal,Autre
+11-01-21,60.0-64,64,17,MASTERS,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"70,000 - 79,999",79999,77633.0,25.8,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-22,50.0-54,54,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,138868.0,19.0,Full-time,F-Full-time Nonseasonal,Autre
+09-01-21,>=65,65,4,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"70,000 - 79,999",79999,74158.0,35.1,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-21,60.0-64,64,17,MASTERS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,116715.0,33.5,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-23,>=65,65,4,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,82854.0,24.1,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-20,55.0-59,59,4,,34,White Collar,0391-TELECOMMUNICATIONS,Administrative,"100,000 - 109,999",109999,109362.0,34.6,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-22,60.0-64,64,13,BACHELORS,19,White Collar,0080-SECURITY ADMINISTRATION,Administrative,"100,000 - 109,999",109999,107803.0,18.9,Full-time,F-Full-time Nonseasonal,Autre
+04-01-23,60.0-64,64,13,BACHELORS,24,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"130,000 - 139,999",139999,130683.0,23.7,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-22,60.0-64,64,4,,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,103601.0,31.8,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-21,60.0-64,64,13,BACHELORS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,87822.0,13.0,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-23,60.0-64,64,13,BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,116558.0,21.8,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-20,40.0-44,44,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,122180.0,15.8,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-22,55.0-59,59,4,,1,White Collar,0132-INTELLIGENCE,Administrative,"130,000 - 139,999",139999,135308.0,0.0,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-21,>=65,65,8,,34,Blue Collar,2502-TELECOMMUNICATIONS MECHANIC,Blue Collar,"50,000 - 59,999",59999,57538.0,32.6,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-21,55.0-59,59,4,,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,106790.0,14.8,Full-time,F-Full-time Nonseasonal,Autre
+07-01-21,55.0-59,59,13,BACHELORS,34,White Collar,1001-GENERAL ARTS AND INFORMATION,Administrative,"110,000 - 119,999",119999,113362.0,32.0,Full-time,F-Full-time Nonseasonal,Volontaire
+03-01-21,35.0-39,39,13,BACHELORS,14,White Collar,1550-COMPUTER SCIENCE,Professional,"100,000 - 109,999",109999,105003.0,14.8,Full-time,F-Full-time Nonseasonal,Autre
+12-01-20,>=65,65,7,,35,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"70,000 - 79,999",79999,77396.0,53.3,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-23,60.0-64,64,7,,19,White Collar,0080-SECURITY ADMINISTRATION,Administrative,"130,000 - 139,999",139999,138005.0,19.2,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-23,60.0-64,64,13,BACHELORS,19,White Collar,0391-TELECOMMUNICATIONS,Administrative,"130,000 - 139,999",139999,138150.0,18.3,Full-time,F-Full-time Nonseasonal,Volontaire
+06-01-22,60.0-64,64,13,BACHELORS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,85148.0,23.2,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-22,45.0-49,49,14,POST-BACHELORS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,128187.0,13.6,Full-time,F-Full-time Nonseasonal,Involontaire
+01-01-22,55.0-59,59,13,BACHELORS,35,White Collar,0501-FINANCIAL ADMINISTRATION AND PROGRAM,Administrative,"100,000 - 109,999",109999,104046.0,37.3,Full-time,F-Full-time Nonseasonal,Autre
+02-01-22,60.0-64,64,13,BACHELORS,14,White Collar,0080-SECURITY ADMINISTRATION,Administrative,"100,000 - 109,999",109999,103810.0,13.9,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-21,40.0-44,44,4,,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,107501.0,16.3,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-19,60.0-64,64,8,,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,85121.0,32.8,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-22,55.0-59,59,4,,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,80685.0,13.7,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-21,45.0-49,49,4,,2,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,110572.0,2.7,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-20,60.0-64,64,17,MASTERS,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,99665.0,25.4,Full-time,F-Full-time Nonseasonal,Involontaire
+06-01-22,60.0-64,64,4,,19,White Collar,1101-GENERAL BUSINESS AND INDUSTRY,Administrative,"90,000 - 99,999",99999,93541.0,16.6,Full-time,F-Full-time Nonseasonal,Autre
+05-01-22,60.0-64,64,12,BETWEEN HS & BACHELORS,14,White Collar,0391-TELECOMMUNICATIONS,Administrative,"110,000 - 119,999",119999,116991.0,14.8,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-22,50.0-54,54,4,,19,White Collar,1001-GENERAL ARTS AND INFORMATION,Administrative,"100,000 - 109,999",109999,107803.0,15.1,Full-time,F-Full-time Nonseasonal,Involontaire
+10-01-19,50.0-54,54,17,MASTERS,14,White Collar,1515-OPERATIONS RESEARCH,Professional,"130,000 - 139,999",139999,130061.0,13.3,Full-time,F-Full-time Nonseasonal,Autre
+06-01-21,60.0-64,64,12,BETWEEN HS & BACHELORS,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,85535.0,38.6,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-21,>=65,65,10,BETWEEN HS & BACHELORS,29,White Collar,0391-TELECOMMUNICATIONS,Administrative,"120,000 - 129,999",129999,120634.0,25.6,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-23,55.0-59,59,17,MASTERS,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"140,000 - 149,999",149999,145617.0,20.1,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-20,50.0-54,54,13,BACHELORS,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,116305.0,25.3,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-22,>=65,65,17,MASTERS,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,138868.0,27.3,Full-time,F-Full-time Nonseasonal,Involontaire
+06-01-22,>=65,65,10,BETWEEN HS & BACHELORS,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"140,000 - 149,999",149999,144976.0,28.8,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-19,40.0-44,44,4,,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,82764.0,14.2,Full-time,F-Full-time Nonseasonal,Autre
+08-01-21,50.0-54,54,17,MASTERS,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,109557.0,14.8,Full-time,F-Full-time Nonseasonal,Autre
+10-01-20,60.0-64,64,4,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,108472.0,21.7,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-20,60.0-64,64,7,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,92197.0,37.6,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-22,>=65,65,4,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,101778.0,48.8,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-19,>=65,65,4,,34,White Collar,1001-GENERAL ARTS AND INFORMATION,Technical,"60,000 - 69,999",69999,66868.0,33.3,Full-time,F-Full-time Nonseasonal,Involontaire
+06-01-21,>=65,65,4,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,94581.0,39.8,Full-time,F-Full-time Nonseasonal,Involontaire
+02-01-23,55.0-59,59,13,BACHELORS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"150,000 - 159,999",159999,154022.0,33.5,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-19,55.0-59,59,13,BACHELORS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,105362.0,33.2,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-22,55.0-59,59,7,,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,92662.0,30.6,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-21,60.0-64,64,8,,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,113644.0,18.3,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-20,>=65,65,4,,29,White Collar,0201-HUMAN RESOURCES MANAGEMENT,Administrative,"100,000 - 109,999",109999,100355.0,26.8,Full-time,F-Full-time Nonseasonal,Volontaire
+06-01-22,55.0-59,59,7,,19,Blue Collar,2504-WIRE COMMUNICATIONS CABLE SPLICING,Blue Collar,"60,000 - 69,999",69999,60356.0,15.1,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-21,35.0-39,39,13,BACHELORS,14,White Collar,0501-FINANCIAL ADMINISTRATION AND PROGRAM,Administrative,"80,000 - 89,999",89999,85650.0,14.4,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-21,>=65,65,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,126664.0,16.6,Full-time,F-Full-time Nonseasonal,Autre
+10-01-21,60.0-64,64,13,BACHELORS,19,White Collar,0346-LOGISTICS MANAGEMENT,Administrative,"80,000 - 89,999",89999,87304.0,18.3,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-21,60.0-64,64,4,,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,105256.0,29.1,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-20,>=65,65,13,BACHELORS,35,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"110,000 - 119,999",119999,118633.0,44.0,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-21,40.0-44,44,17,MASTERS,2,White Collar,0080-SECURITY ADMINISTRATION,Administrative,"90,000 - 99,999",99999,98827.0,1.9,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-22,60.0-64,64,4,,19,Blue Collar,6907-MATERIALS HANDLER,Blue Collar,"40,000 - 49,999",49999,45642.0,19.0,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-22,45.0-49,49,17,MASTERS,19,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"120,000 - 129,999",129999,124340.0,19.3,Full-time,F-Full-time Nonseasonal,Autre
+12-01-21,55.0-59,59,8,,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,87415.0,32.1,Full-time,F-Full-time Nonseasonal,Autre
+07-01-20,>=65,65,4,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"60,000 - 69,999",69999,62836.0,46.0,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-23,60.0-64,64,4,,35,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,103552.0,42.4,Full-time,F-Full-time Nonseasonal,Volontaire
+10-01-19,55.0-59,59,10,BETWEEN HS & BACHELORS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,85905.0,32.8,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-20,50.0-54,54,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,92068.0,15.6,Full-time,F-Full-time Nonseasonal,Autre
+05-01-20,>=65,65,13,BACHELORS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,87950.0,32.0,Full-time,F-Full-time Nonseasonal,Volontaire
+06-01-22,50.0-54,54,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,134865.0,18.2,Full-time,F-Full-time Nonseasonal,Autre
+03-01-21,>=65,65,18,POST MASTERS,34,White Collar,1515-OPERATIONS RESEARCH,Professional,"120,000 - 129,999",129999,129448.0,34.9,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-22,55.0-59,59,13,BACHELORS,35,White Collar,0343-MANAGEMENT AND PROGRAM ANALYSIS,Administrative,"100,000 - 109,999",109999,103176.0,40.1,Full-time,F-Full-time Nonseasonal,Volontaire
+12-01-22,60.0-64,64,13,BACHELORS,24,White Collar,0391-TELECOMMUNICATIONS,Administrative,"140,000 - 149,999",149999,146460.0,23.3,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-23,>=65,65,10,BETWEEN HS & BACHELORS,35,White Collar,0392-GENERAL TELECOMMUNICATIONS,Technical,"40,000 - 49,999",49999,49009.0,40.9,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-22,>=65,65,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,82926.0,15.4,Full-time,F-Full-time Nonseasonal,Volontaire
+01-01-23,55.0-59,59,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"110,000 - 119,999",119999,111628.0,16.9,Full-time,F-Full-time Nonseasonal,Volontaire
+09-01-23,55.0-59,59,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,103473.0,19.1,Full-time,F-Full-time Nonseasonal,Involontaire
+10-01-19,55.0-59,59,13,BACHELORS,34,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"120,000 - 129,999",129999,122310.0,33.3,Full-time,F-Full-time Nonseasonal,Volontaire
+10-01-19,45.0-49,49,13,BACHELORS,24,White Collar,0560-BUDGET ANALYSIS,Administrative,"80,000 - 89,999",89999,82056.0,21.9,Full-time,F-Full-time Nonseasonal,Volontaire
+10-01-20,60.0-64,64,4,,24,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,84251.0,23.1,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-23,60.0-64,64,17,MASTERS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"140,000 - 149,999",149999,145617.0,19.8,Full-time,F-Full-time Nonseasonal,Volontaire
+05-01-22,40.0-44,44,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,97430.0,17.4,Full-time,F-Full-time Nonseasonal,Involontaire
+01-01-21,50.0-54,54,9,,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"100,000 - 109,999",109999,103309.0,18.7,Full-time,F-Full-time Nonseasonal,Autre
+08-01-21,55.0-59,59,4,,19,White Collar,2003-SUPPLY PROGRAM MANAGEMENT,Administrative,"70,000 - 79,999",79999,73271.0,18.8,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-19,>=65,65,8,,19,White Collar,2001-GENERAL SUPPLY,Administrative,"80,000 - 89,999",89999,85916.0,16.9,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-23,45.0-49,49,11,BETWEEN HS & BACHELORS,24,White Collar,0201-HUMAN RESOURCES MANAGEMENT,Administrative,"100,000 - 109,999",109999,108345.0,21.9,Full-time,F-Full-time Nonseasonal,Autre
+02-01-20,>=65,65,4,,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,88817.0,10.4,Full-time,F-Full-time Nonseasonal,Volontaire
+02-01-21,50.0-54,54,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"130,000 - 139,999",139999,134782.0,16.1,Full-time,F-Full-time Nonseasonal,Autre
+01-01-20,60.0-64,64,4,,14,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,97183.0,14.8,Full-time,F-Full-time Nonseasonal,Volontaire
+07-01-22,55.0-59,59,13,BACHELORS,29,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,87718.0,26.2,Full-time,F-Full-time Nonseasonal,Volontaire
+11-01-19,60.0-64,64,4,,24,White Collar,0391-TELECOMMUNICATIONS,Administrative,"100,000 - 109,999",109999,108422.0,20.3,Full-time,F-Full-time Nonseasonal,Volontaire
+04-01-20,35.0-39,39,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,94626.0,18.2,Full-time,F-Full-time Nonseasonal,Autre
+12-01-21,55.0-59,59,17,MASTERS,34,White Collar,0301-MISCELLANEOUS ADMINISTRATION AND PROGRAM,Administrative,"120,000 - 129,999",129999,121068.0,31.2,Full-time,F-Full-time Nonseasonal,Volontaire
+08-01-20,40.0-44,44,4,,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"90,000 - 99,999",99999,99665.0,19.3,Full-time,F-Full-time Nonseasonal,Autre
+06-01-21,50.0-54,54,13,BACHELORS,19,White Collar,2210-INFORMATION TECHNOLOGY MANAGEMENT,Administrative,"80,000 - 89,999",89999,88761.0,17.3,Full-time,F-Full-time Nonseasonal,Autre
+
