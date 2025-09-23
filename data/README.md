@@ -1,7 +1,16 @@
 # 📂 Données du projet
 
-Ce dossier documente les données utilisées pour l'analyse de l'attrition et l'alimentation du dashboard Power BI ainsi que pour les modèles de Machine Learning.  
+Ce dossier documente les données utilisées pour l'analyse de l'attrition et l'alimentation du dashboard Power BI, ainsi que pour les modèles de Machine Learning.
+
 Les données proviennent de l'**Office of Personnel Management (OPM, USA)** et sont intégrées dans **Snowflake**.
+
+Elles sont issues de deux jeux de données distincts :
+
+- Années fiscales 2015 à 2019
+
+- Années fiscales 2020 à 2024
+
+Ces jeux de données concernent le départ des employés fédéraux et servent de base à la préparation, à l'analyse et à la modélisation.
 
 ---
 
@@ -44,12 +53,12 @@ Cette table est directement utilisée dans **Power BI** et pour les modèles de 
 ## 🌐 Source publique OPM
 
 ### 📅 Année 2015
-- **Données (ZIP)** : [Télécharger](https://www.opm.gov/data/datasets/Files/610/fd567924-edea-478f-bc5a-24e19efd7243.zip)
-- **Documentation (PDF)** : [Lire](https://www.opm.gov/data/datasets/Files/610/33e99f89-08df-43f4-99d2-3e4a0fefedf6.pdf)
+- **Données (ZIP)** : [Télécharger](https://www.opm.gov/data/datasets/Files/611/004f4b85-fe4f-4e7d-bd7b-2d23033570cb.zip)
+- **Documentation (PDF)** : [Lire](https://www.opm.gov/data/datasets/Files/611/0e9d0a58-7601-4215-99c6-fc63274f7511.pdf)
 
 ### 📅 Année 2019
 - **Données (ZIP)** : [Télécharger](https://www.opm.gov/data/datasets/Files/652/21d85c40-bd35-4f20-9359-281a31af39b1.zip)
-- **Documentation (PDF)** : [Lire](https://www.opm.gov/data/datasets/Files/649/d36b1361-3eff-4f8b-856a-9fb70c1253d5.pdf)
+- **Documentation (PDF)** : [Lire](https://www.opm.gov/data/datasets/Files/652/f17bf96e-e96f-429e-9606-eac534ce6c9b.pdf)
 
 ---
 
