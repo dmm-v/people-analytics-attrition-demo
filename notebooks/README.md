@@ -8,22 +8,18 @@ Chaque notebook combine code, explications et résultats intermédiaires pour as
 
 ## 📂 Contenu
 
-1. **[01_concat_data.ipynb](01_concat_data.ipynb)**  
+1. **[01_concat_data & 02_data_cleaning.ipynb](Notebook_hr_analytics.ipynb)**  
    - Fusion des tables brutes (2015–2019 et 2020–2024)  
    - Suppression des doublons  
-   - Export du dataset complet `DTagy_Clean.csv`
-
-2. **[02_data_cleaning.ipynb](02_data_cleaning.ipynb)**  
    - Nettoyage des données (valeurs manquantes, formats, types)  
    - Harmonisation des catégories d’âge  
-   - Export du dataset final `DTagy_Clean_Final.csv`
+   - Export du dataset complet `DTagy_Clean.csv` puis du dataset final `DTagy_Clean_Final.csv`
 
-3. **[03_sample_data.ipynb](03_sample_data.ipynb)**  
+2. **[03_sample_data.ipynb](03_sample_data.ipynb)**  
    - Création d’un échantillon de **500 premières lignes** de la table enrichie  
-   - Fichier disponible ici : [`hr_analytics2_sample.csv`](../data/hr_analytics2_sample.csv)  
+   - Fichier disponible ici : [`hr_analytics2_sample.csv`](../data/data/hr_analytics2_sample.csv)  
    - Contient **toutes les colonnes finales** utilisées dans Power BI et pour les modèles de Machine Learning  
    - Étape conçue pour la **démonstration** et la **reproductibilité** du pipeline
-
 
 ---
 
