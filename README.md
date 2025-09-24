@@ -25,14 +25,16 @@ Objectif : mettre en pratique le cycle complet d’analyse de données RH.
 - **SQL**
 - **Snowflake**
 
-## Structure du projet
+## 📂 Structure du projet
 people-analytics-attrition-demo/
+│
+├── README.md # Présentation générale (ce fichier)
+├── data/ # Données sources et échantillon public
+├── notebooks/ # Notebooks Jupyter du pipeline
+├── scripts/ # Scripts Python réutilisables
+├── dashboard/ # Dashboard Power BI
+└── docs/ # Captures, schémas, documentation
 
-README.md             # Présentation générale (ce fichier)
-data/                 # Données sources et échantillon public
-notebooks/            # Notebooks Jupyter du pipeline
-dashboard/            # Dashboard Power BI
-docs/                 # Captures, schémas, documentation
 
 ## Résultats clés
 - Nature des départs : principalement volontaires.
