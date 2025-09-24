@@ -1,4 +1,4 @@
-# 📓 Notebooks du projet Attrition OPM
+# Notebooks du projet Attrition OPM
 
 Ce dossier regroupe les notebooks Jupyter qui documentent et démontrent les étapes clés du pipeline de traitement des données du projet **Analyse de l'attrition des employés fédéraux**.
 
@@ -6,7 +6,7 @@ Chaque notebook combine code, explications et résultats intermédiaires pour as
 
 ---
 
-## 📂 Contenu
+## Contenu
 
 1. **[01_concat_data & 02_data_cleaning.ipynb](Notebook_hr_analytics.ipynb)**  
    - Fusion des tables brutes (2015–2019 et 2020–2024)  
@@ -23,7 +23,7 @@ Chaque notebook combine code, explications et résultats intermédiaires pour as
 
 ---
 
-## 🔄 Ordre d’exécution
+## Ordre d’exécution
 
 1. Lancer `01_concat_data.ipynb` pour produire le dataset complet.  
 2. Lancer `02_data_cleaning.ipynb` pour obtenir le dataset final nettoyé.  
@@ -31,7 +31,7 @@ Chaque notebook combine code, explications et résultats intermédiaires pour as
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - Python 3.x  
 - Pandas, NumPy  
@@ -39,7 +39,7 @@ Chaque notebook combine code, explications et résultats intermédiaires pour as
 
 ---
 
-## 📎 Notes
+## Notes
 
 - Les fichiers complets sont stockés dans `data/data/` (non tous publiés sur GitHub pour des raisons de taille/confidentialité).
 - Les notebooks peuvent être exécutés indépendamment si les fichiers nécessaires sont déjà présents.
