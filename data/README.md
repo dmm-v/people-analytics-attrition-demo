@@ -1,4 +1,4 @@
-# 📂 Données du projet
+# Données du projet
 
 Ce dossier documente les données utilisées pour l'analyse de l'attrition et l'alimentation du dashboard Power BI, ainsi que pour les modèles de Machine Learning.
 
@@ -7,14 +7,13 @@ Les données proviennent de l'**Office of Personnel Management (OPM, USA)** et s
 Elles sont issues de deux jeux de données distincts :
 
 - Années fiscales 2015 à 2019
-
 - Années fiscales 2020 à 2024
 
 Ces jeux de données concernent le départ des employés fédéraux et servent de base à la préparation, à l'analyse et à la modélisation.
 
 ---
 
-## 🗂 Structure relationnelle (Snowflake)
+## Structure relationnelle (Snowflake)
 
 ### Table principale
 - **Nom** : `hr_data.employee_data`
@@ -37,7 +36,7 @@ Les clés de la table principale permettent de relier les tables de référence 
 
 ---
 
-## 🔄 Table consolidée
+## Table consolidée
 
 Une table finale est créée dans Snowflake pour centraliser les données :
 
@@ -50,19 +49,19 @@ Cette table est directement utilisée dans **Power BI** et pour les modèles de 
 
 ---
 
-## 🌐 Source publique OPM
+## Source publique OPM
 
-### 📅 Année 2015
+### Année 2015
 - **Données (ZIP)** : [Télécharger](https://www.opm.gov/data/datasets/Files/611/004f4b85-fe4f-4e7d-bd7b-2d23033570cb.zip)
 - **Documentation (PDF)** : [Lire](https://www.opm.gov/data/datasets/Files/611/0e9d0a58-7601-4215-99c6-fc63274f7511.pdf)
 
-### 📅 Année 2019
+### Année 2020
 - **Données (ZIP)** : [Télécharger](https://www.opm.gov/data/datasets/Files/652/21d85c40-bd35-4f20-9359-281a31af39b1.zip)
 - **Documentation (PDF)** : [Lire](https://www.opm.gov/data/datasets/Files/652/f17bf96e-e96f-429e-9606-eac534ce6c9b.pdf)
 
 ---
 
-## 📊 Contenu local (pour tests)
+## Contenu local (pour tests)
 
 Ce dossier contient un **échantillon anonymisé** issu de la **table enrichie** `bruts.hr_data.Hr_Analytics2` :
 
@@ -75,19 +74,19 @@ Ce fichier a été généré à partir des données OPM USA (voir section *Sourc
 
 ---
 
-## 🔒 Confidentialité
+## Confidentialité
 - Les fichiers inclus ici sont **anonymisés** et légers.
 - Aucune donnée nominative ou sensible n’est publiée.
 
 ---
 
-## 📌 Format et conventions
+## Format et conventions
 - **Format** : CSV (UTF‑8, séparateur `,`), première ligne = noms de colonnes.
 - **Nommage colonnes** : clair et explicite (ex. `Age_Group`, `Salary_Level`, `Separation_Category`).
 
 ---
 
-## 🚀 Utilisation rapide
+## Utilisation rapide
 ```python
 import pandas as pd
 
