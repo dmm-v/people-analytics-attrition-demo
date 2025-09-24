@@ -2,7 +2,7 @@
 De la donnée brute aux recommandations RH grâce à la visualisation et au machine learning
 
 ## Contexte
-Projet réalisé dans le cadre d’une formation **Data Analyst Fullstac****.
+Projet réalisé dans le cadre d’une formation **Data Analyst Fullstack**.
 Objectif : mettre en pratique le cycle complet d’analyse de données RH.
 - **Source des données** : Office of Personnel Management (OPM, USA).
 - **Périodes couvertes** : 2015–2019 et 2020–2024.
@@ -27,12 +27,12 @@ Objectif : mettre en pratique le cycle complet d’analyse de données RH.
 
 ## Structure du projet
 people-analytics-attrition-demo/
-│
-├── README.md              # Présentation générale (ce fichier)
-├── data/                  # Données sources et échantillon public
-├── notebooks/             # Notebooks Jupyter du pipeline
-├── dashboard/             # Dashboard Power BI
-└── docs/                  # Captures, schémas, documentation
+
+README.md             # Présentation générale (ce fichier)
+data/                 # Données sources et échantillon public
+notebooks/            # Notebooks Jupyter du pipeline
+dashboard/            # Dashboard Power BI
+docs/                 # Captures, schémas, documentation
 
 ## Résultats clés
 - Nature des départs : principalement volontaires.
