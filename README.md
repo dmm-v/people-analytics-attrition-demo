@@ -1,13 +1,12 @@
-# people-analytics-attrition-demo
-People Analytics : de la donnée brute aux recommandations RH grâce à la visualisation et au machine learning
-
-# Analyse des départs d’employés – Projet démonstratif
-People Analytics : de la donnée brute aux recommandations RH grâce à la visualisation et au machine learning
+# People Analytics – Attrition des employés fédéraux
+De la donnée brute aux recommandations RH grâce à la visualisation et au machine learning
 
 ## Contexte
-Projet réalisé dans le cadre d’une formation **Data Analyst Fullstack**.  
-L’objectif est de mettre en pratique l’ensemble du cycle d’analyse de données, de la collecte à la restitution, sur un cas RH réel.  
-Les données utilisées proviennent de l’**Office of Personnel Management (OPM)** aux États‑Unis. Elles sont **réelles mais entièrement anonymisées**, garantissant le respect de la confidentialité et de la protection des informations personnelles.
+Projet réalisé dans le cadre d’une formation **Data Analyst Fullstac****.
+Objectif : mettre en pratique le cycle complet d’analyse de données RH.
+- **Source des données** : Office of Personnel Management (OPM, USA).
+- **Périodes couvertes** : 2015–2019 et 2020–2024.
+- **Données réelles** mais entièrement anonymisées.
 
 ## Objectifs
 - Suivre l’évolution des départs d’employés.
@@ -15,10 +14,10 @@ Les données utilisées proviennent de l’**Office of Personnel Management (OPM
 - Prédire les départs volontaires à l’aide de modèles de machine learning.
 
 ## Compétences mobilisées
-- **Data cleaning** et préparation des données.
-- **Visualisation** et storytelling des données.
-- **Machine learning** supervisé.
-- **Analyse exploratoire** et interprétation des résultats.
+- Nettoyage et préparation des données (Python, Pandas).
+- Visualisation & storytelling (Power BI, Matplotlib).
+- Machine learning supervisé (Scikit-learn).
+- Analyse exploratoire et interprétation métier.
 
 ## Outils utilisés
 - **Python** : pandas, scikit-learn
@@ -26,12 +25,31 @@ Les données utilisées proviennent de l’**Office of Personnel Management (OPM
 - **SQL**
 - **Snowflake**
 
-## Livrables
-- Tableau de bord interactif (Power BI).
-- Modèle prédictif d’attrition.
-- Recommandations RH basées sur les résultats.
+## Structure du projet
+people-analytics-attrition-demo/
+│
+├── README.md              # Présentation générale (ce fichier)
+├── data/                  # Données sources et échantillon public
+├── notebooks/             # Notebooks Jupyter du pipeline
+├── dashboard/             # Dashboard Power BI
+└── docs/                  # Captures, schémas, documentation
 
-## 👀 Aperçu visuel
+## Résultats clés
+- Nature des départs : principalement volontaires.
+- Variables les plus influentes :
+    - Ancienneté ≈ 12 ans
+    - Âge ≈ 48 ans
+- Performance du modèle de prédiction :
+    - Accuracy = 0.80
+    - F1-score = 0.73
+    - AUC = 0.67
+
+## Recommandations RH
+- Améliorer les conditions de travail en général.
+- Mener une analyse approfondie de la satisfaction au travail.
+- Offrir davantage d’opportunités de développement de carrière.
+
+## Aperçu visuel
 *(Captures d’écran du dashboard et des graphiques – données réelles anonymisées de l’OPM, USA)*  
 
 ![Aperçu du dashboard](docs/dashboard-preview.png) 
@@ -40,9 +58,7 @@ Les données utilisées proviennent de l’**Office of Personnel Management (OPM
 
 ![Graphique Machine Learning](docs/ml-preview.png)
 
-## Structure du projet
-- `data/` : données réelles anonymisées utilisées pour l’analyse (non diffusées intégralement dans ce dépôt).
-- `notebooks/` : analyses exploratoires et modèles en Jupyter Notebook.
-- `scripts/` : scripts Python réutilisables pour le traitement et la modélisation.
-- `dashboard/` : fichiers Power BI (.pbix) ou exports liés au tableau de bord.
-- `docs/` : documentation et visuels (captures d’écran, schémas).
+## Livrables
+- Tableau de bord interactif (Power BI).
+- Modèle prédictif d’attrition.
+- Recommandations RH basées sur les résultats.
